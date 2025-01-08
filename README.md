@@ -15,7 +15,7 @@
 - 🤝 Looking for help with **Data Science decision-making processes**
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/feltens)
 - 💬 Ask me about **SQL, Power BI, Python**
-- ⚡ Fun fact: **I started analyzing data while I was still in high school!**
+- ⚡ Fun fact: **I started working as a data analyst while I was still in high school!**
 
 ---
 
